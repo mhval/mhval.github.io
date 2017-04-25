@@ -2,7 +2,7 @@
 *.swp
 *.swo
 
-# Mac
+# Mac (delete these if you're not a Mac user)
 .DS_Store
 .DS_Store?
 ._*
@@ -12,9 +12,10 @@
 Icon
 
 
-# Windows
+# Windows (delete these if you're not a Windows user)
 Thumbs.db
 ehthumbs.db
+
 
 # node.js
 node_modules
@@ -23,7 +24,7 @@ logs
 npm-debug.log*
 .npm
 
-# SublimeText
+# SublimeText (delete these if you will not be using Sublime)
 .sublime-project
 *.sublime-workspace
 *.sublime-project
